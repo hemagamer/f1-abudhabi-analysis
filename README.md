@@ -232,11 +232,11 @@ Brake Applications: XX times
 *Bar chart showing gap to pole position for all Q3 participants*
 
 ### Position Changes
-![Position Changes](images/position_changes.png)
+![Position Changes](images/Position_changes.png)
 *Interactive flow diagram tracking position changes from grid to checkered flag*
 
 ### Lap Time Evolution
-![Lap Evolution](images/lap_evolution.png)
+![Lap Evolution](images/lap_Evolution.png)
 *Line chart showing pace throughout the race with pit stops marked*
 
 ### Driver Comparison
